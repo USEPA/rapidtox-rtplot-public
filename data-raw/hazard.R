@@ -1,0 +1,5 @@
+library(jsonlite)
+example_11_1 <- fromJSON("data-raw/hazard.json")
+example_11_1$toxvalNumeric <- as.numeric(example_11_1$toxvalNumeric)
+library(usethis)
+use_data(example_11_1, overwrite = TRUE)

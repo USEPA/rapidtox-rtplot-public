@@ -1,0 +1,296 @@
+[
+  {
+    "exposureRoute": "oral",
+    "studyType": "Toxicity Value",
+    "superCategory": "Toxicity Value",
+    "toxvalNumeric": 7.0E-5,
+    "toxvalUnits": "mg/kg-day"
+  },
+  {
+    "exposureRoute": "dermal",
+    "studyType": "Toxicity Value",
+    "superCategory": "Toxicity Value",
+    "toxvalNumeric": 0.002,
+    "toxvalUnits": "mg/kg-day"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "Toxicity Value",
+    "superCategory": "Toxicity Value",
+    "toxvalNumeric": 0.002,
+    "toxvalUnits": "mg/kg-day"
+  },
+  {
+    "exposureRoute": "not specified",
+    "studyType": "Toxicity Value",
+    "superCategory": "Toxicity Value",
+    "toxvalNumeric": 0.002,
+    "toxvalUnits": "mg/kg-day"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "Toxicity Value",
+    "superCategory": "Toxicity Value",
+    "toxvalNumeric": 0.002,
+    "toxvalUnits": "mg/kg-day"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "Toxicity Value",
+    "superCategory": "Toxicity Value",
+    "toxvalNumeric": 0.02,
+    "toxvalUnits": "mg/kg-day"
+  },
+  {
+    "exposureRoute": "inhalation",
+    "studyType": "Toxicity Value",
+    "superCategory": "Toxicity Value",
+    "toxvalNumeric": 0.117,
+    "toxvalUnits": "mg/m3"
+  },
+  {
+    "exposureRoute": "multiple",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 0.0039,
+    "toxvalUnits": "mg/L"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 0.0044,
+    "toxvalUnits": "mg/kg"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 0.01,
+    "toxvalUnits": "mg/L"
+  },
+  {
+    "exposureRoute": "multiple",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 0.039,
+    "toxvalUnits": "mg/L"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 0.044,
+    "toxvalUnits": "mg/kg"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 0.069,
+    "toxvalUnits": "mg/L"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 0.19,
+    "toxvalUnits": "mg/L"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 0.28,
+    "toxvalUnits": "mg/L"
+  },
+  {
+    "exposureRoute": "not specified",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 0.3,
+    "toxvalUnits": "mg/L"
+  },
+  {
+    "exposureRoute": "inhalation",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 3.5,
+    "toxvalUnits": "mg/m3"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 6.9,
+    "toxvalUnits": "mg/L"
+  },
+  {
+    "exposureRoute": "multiple",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 13.0,
+    "toxvalUnits": "mg/kg soil"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 19.0,
+    "toxvalUnits": "mg/L"
+  },
+  {
+    "exposureRoute": "inhalation",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 25.0,
+    "toxvalUnits": "mg/m3"
+  },
+  {
+    "exposureRoute": "inhalation",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 30.0,
+    "toxvalUnits": "mg/m3"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 69.0,
+    "toxvalUnits": "mg/L"
+  },
+  {
+    "exposureRoute": "multiple",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 130.0,
+    "toxvalUnits": "mg/kg soil"
+  },
+  {
+    "exposureRoute": "multiple",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 160.0,
+    "toxvalUnits": "mg/kg soil"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 190.0,
+    "toxvalUnits": "mg/L"
+  },
+  {
+    "exposureRoute": "multiple",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 1600.0,
+    "toxvalUnits": "mg/kg soil"
+  },
+  {
+    "exposureRoute": "environmental",
+    "studyType": "Media Exposure Guidelines",
+    "superCategory": "Media Exposure Guidelines",
+    "toxvalNumeric": 4240.0,
+    "toxvalUnits": "mg/kg"
+  },
+  {
+    "exposureRoute": "inhalation",
+    "studyType": "Acute Exposure Guidelines",
+    "superCategory": "Acute Exposure Guidelines",
+    "toxvalNumeric": 0.61,
+    "toxvalUnits": "mg/m3"
+  },
+  {
+    "exposureRoute": "inhalation",
+    "studyType": "Acute Exposure Guidelines",
+    "superCategory": "Acute Exposure Guidelines",
+    "toxvalNumeric": 6.8,
+    "toxvalUnits": "mg/m3"
+  },
+  {
+    "exposureRoute": "inhalation",
+    "studyType": "Acute Exposure Guidelines",
+    "superCategory": "Acute Exposure Guidelines",
+    "toxvalNumeric": 16.0,
+    "toxvalUnits": "mg/m3"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "acute",
+    "superCategory": "Mortality Response Summary Value",
+    "toxvalNumeric": 30.0,
+    "toxvalUnits": "mg/kg"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "acute",
+    "superCategory": "Mortality Response Summary Value",
+    "toxvalNumeric": 30.0,
+    "toxvalUnits": "mg/kg"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "acute",
+    "superCategory": "Mortality Response Summary Value",
+    "toxvalNumeric": 45.0,
+    "toxvalUnits": "mg/kg"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "acute",
+    "superCategory": "Mortality Response Summary Value",
+    "toxvalNumeric": 81.0,
+    "toxvalUnits": "mg/kg"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "chronic",
+    "superCategory": "Dose Response Summary Value",
+    "toxvalNumeric": 0.07,
+    "toxvalUnits": "mg/kg-day"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "epidemiologic",
+    "superCategory": "Dose Response Summary Value",
+    "toxvalNumeric": 2.0,
+    "toxvalUnits": "mg/kg-day"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "epidemiologic",
+    "superCategory": "Dose Response Summary Value",
+    "toxvalNumeric": 2.0,
+    "toxvalUnits": "mg/kg-day"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "reproduction developmental",
+    "superCategory": "Dose Response Summary Value",
+    "toxvalNumeric": 50.0,
+    "toxvalUnits": "ppm"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "short-term",
+    "superCategory": "Dose Response Summary Value",
+    "toxvalNumeric": 59.0,
+    "toxvalUnits": "ppm"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "reproduction developmental",
+    "superCategory": "Dose Response Summary Value",
+    "toxvalNumeric": 60.0,
+    "toxvalUnits": "mg/kg-day"
+  },
+  {
+    "exposureRoute": "oral",
+    "studyType": "reproduction developmental",
+    "superCategory": "Dose Response Summary Value",
+    "toxvalNumeric": 350.0,
+    "toxvalUnits": "ppm"
+  }
+]
